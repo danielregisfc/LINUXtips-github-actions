@@ -85,6 +85,6 @@ Ao completar cada workflow com sucesso, você ganha os badges:
 
 ---
 
-**Feito pela comunidade LINUXtips.**
+**Feito pela comunidade LINUXtips .**
 
 
