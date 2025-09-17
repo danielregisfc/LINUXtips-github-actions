@@ -1,4 +1,4 @@
-name: Deploy no Servidor
+name: Deploy no Servidor - Teste
 on:
     push:
         branches: 
